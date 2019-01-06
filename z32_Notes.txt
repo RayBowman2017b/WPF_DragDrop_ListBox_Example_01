@@ -1,0 +1,28 @@
+z32_Notes.txt
+
+
+
+This is a place for issues for GongSolutions.WPF.DragDrop itself. Questions are better asked
+in the [Gitter](https://gitter.im/punker76/gong-wpf-dragdrop) room.
+
+
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+
+https://github.com/punker76/gong-wpf-dragdrop/issues
+
+
+Hi,
+
+I'm having trouble catching the drop event. This is with a very simple example
+reordering items in a ListBox.
+
+The code is originally from a post to CodeProject:
+    https://www.codeproject.com/Tips/805035/%2FTips%2F805035%2FReorder-DataGrid-ListBox-Items-with-Drag-and-Drop
+
+I've pushed my own code to GitHub:
+https://github.com/RayBowman2017b/WPF_DragDrop_ListBox_Example_01
+
+When I set a breakpoint on the handlers that I've defined in code,
+they are not hit.
+
